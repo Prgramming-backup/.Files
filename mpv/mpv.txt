@@ -1,0 +1,5 @@
+
+hwdec=vaapi
+vo=gpu
+gpu-api=opengl
+keep-open=yes
